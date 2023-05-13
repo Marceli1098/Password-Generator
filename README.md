@@ -1,6 +1,7 @@
 
 [![Version - 1.2](https://img.shields.io/badge/Version-1.2-2ea44f)](https://) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [![Python - 3.10](https://img.shields.io/badge/Python-3.10-yellow)](https://)
-# Password Generator
+
+![Logo](https://i.ibb.co/QMm3kFJ/Banner-3-1.png)
 
 This is a simple password generator made in python by me
 
