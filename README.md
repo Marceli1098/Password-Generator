@@ -13,12 +13,12 @@ This is a simple password generator made in python by me
 
 ## Features
 
-- Custom lenght
-- Various password types
-- Very strong passwords
-- Universal
-- Automaticly copy to the clipboard
-- Polish and English Languages support
+- 📏 Custom lenght
+- 🔤 Various password types
+- 💪 Very strong passwords
+- 🌎 Universal
+- 📋 Automaticly copy to the clipboard
+- 🇵🇱 Polish and English Languages support
 
 ## Deployment
 
