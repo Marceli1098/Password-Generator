@@ -35,3 +35,6 @@ To run this project open terminal and run those commands
 ```bash
   pip install pyperclip
 ```
+```bash
+  pip install keyboard
+```
